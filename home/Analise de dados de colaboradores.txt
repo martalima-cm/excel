@@ -1,0 +1,27 @@
+1. Sabe qual é o total do salário de todos os colaboradores da empresa
+O total da soma foi de R$ 1.151.317,00.
+
+2. Total do salário dos colaboradores da empresa por endereço de atuação. 
+↦ LOJA 001 - SÃO PAULO______R$  290.627,00
+----------------------------------------
+↦ LOJA 002 - MINAS GERAIS___R$  274.536,00
+----------------------------------------
+↦ LOJA 003 - RIO DE JANEIRO_R$  278.626,00
+----------------------------------------
+↦ LOJA 004 - CEARÁ__________R$  307.528,00
+
+Na soma de tudo dá o mesmo resultado que o início R$ 1.151.317,00.
+
+3. Saber o total da quantidade de colaboradores por endereço. 
+↦ LOJA 001 - SÃO PAULO_________ 44
+-----------------------------------
+↦ LOJA 002 - MINAS GERAIS_______49
+-----------------------------------
+↦ LOJA 003 - RIO DE JANEIRO_____54
+-----------------------------------
+↦ LOJA 004 - CEARÁ______________52
+-----------------------------------
+
+
+
+
