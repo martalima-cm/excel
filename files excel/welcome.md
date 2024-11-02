@@ -1,0 +1,1 @@
+**** Arquivos em formato excel para análise e se caso precisar de algum estudo escolar ou exercícios, estará disponível. Com todos os dados de uma empresa fictícia e análise baseado no dia a dia de um profissional.
